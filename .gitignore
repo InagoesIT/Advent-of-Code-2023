@@ -1,3 +1,7 @@
+.vscode/
+
+# GitHub C++ template for gitignore
+
 # Prerequisites
 *.d
 
