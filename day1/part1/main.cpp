@@ -28,7 +28,7 @@ int getCalibrationSum()
 
 ifstream getStream()
 {
-    const string FILE_NAME = "input.txt";
+    const string FILE_NAME = "../input.txt";
     ifstream inputFile(FILE_NAME);
 
     if (!inputFile.is_open()) 
